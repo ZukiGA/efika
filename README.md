@@ -1,4 +1,4 @@
 # efika-app
 React Native app to increase productivity.
-# manage workflow
+# managed workflow
 https://github.com/RafaGomezGlez/ProductivityApp
