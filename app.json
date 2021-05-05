@@ -1,0 +1,12 @@
+{
+  "name": "proapptivity",
+  "displayName": "proapptivity",
+  "expo": {
+    "name": "proapptivity",
+    "slug": "proapptivity",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
