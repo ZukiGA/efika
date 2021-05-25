@@ -54,4 +54,4 @@ buck-out/
 web-build/
 
 # lib
-lib/database/connection.js
+lib/database/**
