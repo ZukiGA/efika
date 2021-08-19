@@ -1,0 +1,55 @@
+completion: dias pasados en total
+success rate: dias hechos/dias totales
+strike: racha
+icono hecho o no hecho: basado en el dia de hoy del objeto daysToDo
+
+Object {
+  "brighterColor": "#9DB8DD",
+  "categoryName": "Trabajo",
+  "completedTimes": 0,
+  "cuantification": "none",
+  "darkerColor": "#0154C1",
+  "days": Array [
+    1,
+    2,
+    3,
+    4,
+    5,
+  ],
+  "daysToDo": Object {
+    "2021": Object {
+      "6": Object {
+        "31": "none",
+      },
+      "7": Object {
+        "10": "completed",
+        "11": "half",
+        "12": "omitted",
+        "13": "today",
+        "16": "next",
+        "17": "next",
+        "18": "next",
+        "19": "next",
+        "2": "next",
+        "20": "next",
+        "23": "next",
+        "24": "next",
+        "25": "next",
+        "26": "next",
+        "27": "next",
+        "3": "next",
+        "30": "next",
+        "31": "next",
+        "4": "next",
+        "5": "next",
+        "6": "next",
+        "9": "next",
+      },
+    },
+  },
+  "id": "Terminar App1627760835"
+  "mainColor": "#1365CF",
+  "nameTask": "Terminar App",
+  "repetition": "day",
+  "timesToDo": 22,
+}
