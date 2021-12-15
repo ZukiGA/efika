@@ -7601,6 +7601,11 @@ react-native-paper@^4.8.1:
     color "^3.1.2"
     react-native-iphone-x-helper "^1.3.1"
 
+react-native-popover-view@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-popover-view/-/react-native-popover-view-4.1.0.tgz#15ce307ac62f22673c15a054477301071c1d934f"
+  integrity sha512-tfCdOaBwR9R0gFxdhyRdndTT43dkg7mvsOQSf1G96xfv+p1d0sgiJN5bhMhLKfmnDIVGEhQJXAflL0t/3CT9Vg==
+
 react-native-ratings@8.0.4:
   version "8.0.4"
   resolved "https://registry.yarnpkg.com/react-native-ratings/-/react-native-ratings-8.0.4.tgz#efd5ebad8acc08bf98d34d39b18fb7a6813ef991"
