@@ -12,6 +12,7 @@ import { PersistGate } from 'redux-persist/integration/react';
 import Navigator from './lib/routes/navigator';
 
 import reducer from './lib/reducers';
+import i18n from './lib/translations/translation'
 
 const middleware = applyMiddleware(thunkMiddleware);
 const persistConfig = {
