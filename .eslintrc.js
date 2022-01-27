@@ -7,6 +7,7 @@ module.exports = {
     'react-native/react-native': true,
   },
   rules: {
+    allowIndentationTabs: 'on',
     'no-use-before-define': 'off',
     'react/jsx-filename-extension': 'off',
     'react/prop-types': 'off',
