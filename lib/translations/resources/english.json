@@ -1,5 +1,6 @@
 {
-	"Good afternoon": "Good afternoon,",
+	"Ready": "Ready",
+	"To continue": "to continue?",
 	"Active tasks": "Active goals:",
 	"Add task": "Add task",
 	"Name of your goal": "Name of your goal",
@@ -101,5 +102,6 @@
 	"Log out alert": "Are you sure you want to log out from your account?",
 	"YES": "YES",
 	"Dark theme": "Dark theme",
-	"Languages": "Languages"
+	"Languages": "Languages",
+	"Designed and developed": "Designed and developed:"
  }

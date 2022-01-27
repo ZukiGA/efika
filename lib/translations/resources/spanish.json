@@ -1,5 +1,6 @@
 {
-	"Good afternoon": "Buenas tardes,",
+	"Ready": "¿Listo",
+	"To continue": "para continuar?",
 	"Active tasks": "Metas activas:",
 	"Add task": "Añadir meta",
 	"Name of your goal": "Nombre de tu meta",
@@ -101,5 +102,6 @@
 	"Log out alert": "¿Estás seguro que quieres salir de esta cuenta?",
 	"YES": "SÍ",
 	"Dark theme": "Modo oscuro",
-	"Languages": "Idiomas"
+	"Languages": "Idiomas",
+	"Designed and developed": "Diseñado y desarrollado por:"
  }
