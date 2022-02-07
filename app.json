@@ -4,10 +4,15 @@
   "expo": {
     "name": "Efika",
     "slug": "Efika",
-    "version": "1.0.0",
+    "version": "0.5.0",
     "orientation": "portrait",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.efika",
+      "permissions": ["READ_PHONE_STATE"],
+      "versionCode": 2
+    }
   }
 }
