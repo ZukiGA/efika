@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.proapptivity",
+    package = "com.efika",
 )
 
 android_resource(
     name = "res",
-    package = "com.proapptivity",
+    package = "com.efika",
     res = "src/main/res",
 )
 
