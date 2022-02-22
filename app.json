@@ -4,10 +4,34 @@
   "expo": {
     "name": "Efika",
     "slug": "Efika",
-    "version": "1.0.0",
+    "version": "0.5.0",
     "orientation": "portrait",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.efika",
+      "permissions": [
+        "READ_PHONE_STATE",
+        "RECEIVE_BOOT_COMPLETED"
+      ],
+      "versionCode": 2
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/bell.png",
+          "color": "#ffffff",
+          "sounds": [
+            "./assets/pop.wav"
+          ],
+          "mode": "production"
+        }
+      ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.efika"
+    }
   }
 }

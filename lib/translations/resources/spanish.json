@@ -89,8 +89,8 @@
 	"Oct": "Oct",
 	"Nov": "Nov",
 	"Dec": "Dec",
-	"Completion": "Terminación",
-	"Sucess rate": "Tasa de éxito",
+	"Completion": "Porcentaje del día",
+	"Sucess rate": "Porcentaje global",
 	"Strike": "Racha",
 	"Account": "Cuenta",
 	"Theme": "Tema",
@@ -103,5 +103,7 @@
 	"YES": "SÍ",
 	"Dark theme": "Modo oscuro",
 	"Languages": "Idiomas",
-	"Designed and developed": "Diseñado y desarrollado por:"
+	"Designed and developed": "Diseñado y desarrollado por:",
+	"Delete goals alert": "¿Estás seguro que deseas eliminar tus metas?",
+	"Play Store": "Ir a la Play Store"
  }
