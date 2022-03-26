@@ -4,7 +4,7 @@
   "expo": {
     "name": "Efika",
     "slug": "Efika",
-    "version": "0.5.1",
+    "version": "0.5.5",
     "orientation": "portrait",
     "assetBundlePatterns": [
       "**/*"
@@ -14,7 +14,7 @@
       "permissions": [
         "RECEIVE_BOOT_COMPLETED"
       ],
-      "versionCode": 4
+      "versionCode": 5
     },
     "plugins": [
       [
