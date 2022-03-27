@@ -3,6 +3,7 @@
   "displayName": "Efika",
   "expo": {
     "name": "Efika",
+    "icon": "./logo.png",
     "slug": "Efika",
     "version": "0.5.5",
     "orientation": "portrait",
@@ -14,6 +15,10 @@
       "permissions": [
         "RECEIVE_BOOT_COMPLETED"
       ],
+      "adaptiveIcon": {
+        "foregroundImage": "./logo.png",
+        "backgroundColor": "#DADADA"
+      },
       "versionCode": 5
     },
     "plugins": [
